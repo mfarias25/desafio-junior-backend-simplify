@@ -28,7 +28,7 @@ public class TodoController {
 
     @PutMapping
     List<Todo> update(@RequestBody Todo todo) {
-return todoService.update(todo);
+        return todoService.update(todo);
     }
 
     @DeleteMapping("{id}")

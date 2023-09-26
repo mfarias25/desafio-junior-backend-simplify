@@ -14,6 +14,14 @@ public class Todo {
     private boolean realizado;
     private int prioridade;
 
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
     public String getNome() {
         return nome;
     }

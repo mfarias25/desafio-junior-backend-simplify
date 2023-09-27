@@ -1,5 +1,5 @@
 <h1 align="center">
-  TODO List
+  TO-DO List
 </h1>
 
 <p align="center">
